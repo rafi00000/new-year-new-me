@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Work Sans", sans-serif;
+}
+
+/* banner section starts */
+
+.banner-container {
+  background-image: url("/images/banner/banner1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.banner-text {
+  text-align: right;
+  padding: 210px 230px;
+  margin-left: 400px;
+}
+
+.banner-text > h1 {
+  font-size: 65px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.btn-primary {
+  margin-top: 20px;
+  padding: 10px;
+  text-decoration: none;
+  border: none;
+  background-color: yellow;
+  border-radius: 5px;
+  background: #f15b22;
+  color: white;
+}
+
+/* banner section design ends */
+
+/* body section design starts */
